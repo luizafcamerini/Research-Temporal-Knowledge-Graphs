@@ -1,0 +1,6 @@
+graphiti-core[google-genai]==0.31.2
+neo4j>=6.0
+python-dotenv>=1.0
+psycopg[binary]>=3.2
+tenacity>=9.0
+requests>=2.32
